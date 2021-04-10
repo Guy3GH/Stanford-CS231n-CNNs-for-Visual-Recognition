@@ -12,7 +12,7 @@ To motivate you to work as hard as Stanford's students, here are actual applicat
 
 ![alt-text-1](https://habrastorage.org/webt/ik/ny/o4/iknyo4fnkbokzoavq6nlsuitc6y.png "title-1") ![alt-text-2](https://habrastorage.org/webt/8t/go/qa/8tgoqaoa1vwmiuagfkx0i4nkjmm.png "title-2")
 
-**NOTE -** A big part of the solutions actually hides in the **.py** files (besides the .ipynb files listed below), which can be reached from either inside the Jupyter notebooks or this repo folders.
+**NOTE -** A big part of the solutions actually hides in the **.py** files (besides the .ipynb files listed below), which can be reached from this repo folders.
 
 ## Assignment #1:
 Q1: [k-Nearest Neighbor Classifier](assignment1/knn.ipynb)
